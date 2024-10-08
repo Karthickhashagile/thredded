@@ -159,6 +159,7 @@ to Thredded.
 
 | Rails  | Latest Thredded  |
 | ---------- |------------------|
+| Rails 7+   | Thredded 1.1+    |
 | Rails 6.1+ | Thredded 1.1+    |
 | Rails 5.2  | Thredded 1.0.1   |
 | Rails 4.2  | Thredded 0.16.16 |

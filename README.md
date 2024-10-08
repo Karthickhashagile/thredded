@@ -21,10 +21,7 @@ Some of the features currently in Thredded:
 |:---:|:---:|
 | ![Topic on iPhone 6 (Thredded v0.8.2)](https://cloud.githubusercontent.com/assets/216339/20338433/0920debc-abcf-11e6-811c-8f29d10dfed7.png) | ![Messageboard Preferences on iPhone 6 (Thredded v0.8.2)](https://cloud.githubusercontent.com/assets/216339/20338432/090e9c5c-abcf-11e6-8e7e-e287d31f6a54.png) |
 
-Thredded works with SQLite, MySQL (v5.6.4+), and PostgreSQL. Thredded has no infrastructure
-dependencies other than the database and, if configured in the parent application, the ActiveJob
-backend dependency such as Redis. Currently only MRI Ruby 2.2+ is supported. We would love to
-support JRuby and Rubinius as well.
+Thredded works with SQLite, MySQL (v5.6.4+), and PostgreSQL. Thredded has no infrastructure dependencies other than the database and, if configured in the parent application, the ActiveJob backend dependency such as Redis. Currently, Ruby 3.2.0 and Rails 7 are supported. We would love to support JRuby and Rubinius in the future.
 
 If you're looking for variations on a theme - see [Discourse]. However, It is a full rails
 application and not an engine like Thredded.
